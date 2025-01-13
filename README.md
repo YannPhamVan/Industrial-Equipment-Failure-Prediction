@@ -116,7 +116,9 @@ If you would like to test the deployment:
    ``` 
    ![Local & cloud testing](Images/AWS_EB_testing_local_then_cloud_env.png)
    - EB cloud environment terminating
-   
+   ```bash
+   eb terminate failure-serving-env
+   ```
    ![EB cloud environment terminating](Images/AWS_EB_env_terminated.png)
 
 ## Reproducibility
