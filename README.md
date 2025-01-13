@@ -87,33 +87,33 @@ If you would like to test the deployment:
 2. Alternatively, contact me on [LinkedIn](https://www.linkedin.com/in/chasseur2valeurs/) so I can relaunch the AWS instance for testing purposes.
 ### Illustrated Steps for AWS Elastic Beanstalk Deployment
 1. Elastic Beanstalk local deployment
- - EB init & local run
+   - EB init & local run
    ```bash
    eb init -p "Docker running on 64bit Amazon Linux 2023" failure-serving -r eu-west-1
    eb local run --port 9696
    ```
 ![EB init & local run](Images/AWS_EB_init_local_run.png)
- - EB local listening
+   - EB local listening
 ![EB local listening](Images/AWS_EB_init_local_listening.png)
 2. Elastic Beanstalk cloud deployment
- - EB create cloud environment
+   - EB create cloud environment
    ```bash
    eb create failure-serving-env --enable-spot
    ``` 
 ![EB create cloud environment](Images/AWS_EB_create_cloud_env.png)
- - EB cloud environment monitoring
+   - EB cloud environment monitoring
 ![EB cloud environment monitoring](Images/AWS_EB_env_monitoring.png)
 3. Local & cloud testing
- - Local Testing
+   - Local Testing
    ```bash
    python predict-test.py local
    ```
- - Cloud AWS EB Testing
+   - Cloud AWS EB Testing
    ```bash
    python predict-test.py
    ``` 
 ![Local & cloud testing](Images/AWS_EB_testing_local_then_cloud_env.png)
- - EB cloud environment terminating
+   - EB cloud environment terminating
 ![EB cloud environment terminating](Images/AWS_EB_env_terminated.png)
 
 ## Reproducibility
