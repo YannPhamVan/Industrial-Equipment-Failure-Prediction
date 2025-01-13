@@ -9,9 +9,12 @@
 2. [Data Processing](#data-processing)
 3. [Model Training](#model-training)
 4. [Deployment](#deployment)
+      [Testing the Service](#testing-the-service)
 5. [Dependencies and Environment Setup](#dependencies-and-environment-setup)
 6. [Containerization](#containerization)
 7. [Cloud Deployment](#cloud-deployment)
+      [Options for Reproducers](#cloud-deployment)
+      [Illustrated Steps for AWS Elastic Beanstalk Deployment](#illustrated-steps-for-aws-elastic-beanstalk-deployment)
 8. [Reproducibility](#reproducibility)
 
 ---
