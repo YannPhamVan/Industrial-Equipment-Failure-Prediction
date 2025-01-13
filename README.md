@@ -5,17 +5,17 @@
 ---
 
 ## Table of Contents
-[Problem Description](#problem-description)
-[Data Processing](#data-processing)
-[Model Training](#model-training)
-[Deployment](#deployment)
-   [Testing the Service](#testing-the-service)
-[Dependencies and Environment Setup](#dependencies-and-environment-setup)
-[Containerization](#containerization)
-[Cloud Deployment](#cloud-deployment)
-   [Options for Reproducers](#options-for-reproducers)
-   [Illustrated Steps for AWS Elastic Beanstalk Deployment](#illustrated-steps-for-aws-elastic-beanstalk-deployment)
-[Reproducibility](#reproducibility)
+[Problem Description](#-problem-description)
+[Data Processing](#-data-processing)
+[Model Training](#-model-training)
+[Deployment](#-deployment)
+   [Testing the Service](#-testing-the-service)
+[Dependencies and Environment Setup](#-dependencies-and-environment-setup)
+[Containerization](#-containerization)
+[Cloud Deployment](#-cloud-deployment)
+   [Options for Reproducers](#-options-for-reproducers)
+   [Illustrated Steps for AWS Elastic Beanstalk Deployment](#-illustrated-steps-for-aws-elastic-beanstalk-deployment)
+[Reproducibility](#-reproducibility)
 
 ---
 
