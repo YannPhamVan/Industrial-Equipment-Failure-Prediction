@@ -94,8 +94,8 @@ If you would like to test the deployment:
    ```
    ![EB init & local run](Images/AWS_EB_init_local_run.png)
    - EB local listening
-   
-![EB local listening](Images/AWS_EB_init_local_listening.png)
+
+   ![EB local listening](Images/AWS_EB_init_local_listening.png)
 2. Elastic Beanstalk cloud deployment
    - EB create cloud environment
    ```bash
@@ -103,7 +103,8 @@ If you would like to test the deployment:
    ``` 
    ![EB create cloud environment](Images/AWS_EB_create_cloud_env.png)
    - EB cloud environment monitoring
-![EB cloud environment monitoring](Images/AWS_EB_env_monitoring.png)
+
+   ![EB cloud environment monitoring](Images/AWS_EB_env_monitoring.png)
 3. Local & cloud testing
    - Local Testing
    ```bash
@@ -115,7 +116,8 @@ If you would like to test the deployment:
    ``` 
    ![Local & cloud testing](Images/AWS_EB_testing_local_then_cloud_env.png)
    - EB cloud environment terminating
-   ![EB cloud environment terminating](Images/AWS_EB_env_terminated.png)
+
+      ![EB cloud environment terminating](Images/AWS_EB_env_terminated.png)
 
 ## Reproducibility
 
