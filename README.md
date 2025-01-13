@@ -5,14 +5,14 @@
 ---
 
 ## Table of Contents
-1. [Problem Description](#-problem-description)
-2. [Data Processing](#-data-processing)
-3. [Model Training](#-model-training)
-4. [Deployment](#-deployment)
-5. [Dependencies and Environment Setup](#-dependencies-and-environment-setup)
-6. [Containerization](#-containerization)
-7. [Cloud Deployment](#-cloud-deployment)
-8. [Reproducibility](#-reproducibility)
+1. [Problem Description](#problem-description)
+2. [Data Processing](#data-processing)
+3. [Model Training](#model-training)
+4. [Deployment](#deployment)
+5. [Dependencies and Environment Setup](#dependencies-and-environment-setup)
+6. [Containerization](#containerization)
+7. [Cloud Deployment](#cloud-deployment)
+8. [Reproducibility](#reproducibility)
 
 ---
 
