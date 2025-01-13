@@ -94,6 +94,7 @@ If you would like to test the deployment:
    ```
    ![EB init & local run](Images/AWS_EB_init_local_run.png)
    - EB local listening
+   
 ![EB local listening](Images/AWS_EB_init_local_listening.png)
 2. Elastic Beanstalk cloud deployment
    - EB create cloud environment
