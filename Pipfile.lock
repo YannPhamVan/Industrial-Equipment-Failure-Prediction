@@ -1593,7 +1593,7 @@
             ],
             "index": "pypi",
             "markers": "python_version >= '3.8'",
-            "version": "==2.32.4"
+            "version": ">=2.32.4"
         },
         "rfc3339-validator": {
             "hashes": [
