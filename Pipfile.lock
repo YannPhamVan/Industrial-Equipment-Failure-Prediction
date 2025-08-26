@@ -1941,7 +1941,7 @@
                 "sha256:e6b01673c0fa6a13e374b50871808eb3bf7046c4b125b216f6bf1cc604cff0dc"
             ],
             "markers": "python_version >= '3.9'",
-            "version": "==2.5.0"
+            "version": ">=2.5.0"
         },
         "waitress": {
             "hashes": [
