@@ -1942,7 +1942,7 @@
             ],
             "index": "pypi",
             "markers": "python_version >= '3.9'",
-            "version": ">=2.5.0"
+            "version": "==2.5.0"
         },
         "waitress": {
             "hashes": [
